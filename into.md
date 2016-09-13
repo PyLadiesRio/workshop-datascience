@@ -13,3 +13,7 @@
 * Algoritmos que apresentaremos
   * Classificador Naive Bays (Thais)
   * Árvore de Decisão (Annanda)
+
+* Visualização dos dados
+  * Importância
+  * Como fazer.
