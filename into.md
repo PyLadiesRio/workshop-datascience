@@ -6,12 +6,12 @@
   [citar e abrir alguns projetos]
 
 * Apresentar as bibliotecas que serão usadas.
-  * Rows
-  * Scipy
-  * Matplotlib
+  * [Rows] (https://github.com/turicas/rows)
+  * [Scipy] (http://www.scipy.org/)
+  * [Matplotlib] (http://matplotlib.org/)
 
 * Algoritmos que apresentaremos
-  * Classificador Naive Bays (Thais)
+  * [Classificador Naive Bays](bayes.md) - Thais
   * Árvore de Decisão (Annanda)
 
 * Visualização dos dados
